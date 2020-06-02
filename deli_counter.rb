@@ -6,7 +6,7 @@ def line(array)
 end 
 
 if array.length > 0 
-  puts "The line is currently: 1. Logan 2. Avi 3. Spencer
+  puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
 else 
   puts "The line is currently empty."
  end 
