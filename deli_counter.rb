@@ -7,6 +7,9 @@ end
 
 if array.length > 0 
   puts "The line is currently: #{array.join("")}"
+ end 
 end 
-end 
+
+def take_a_number(array, name)
+  array
   
