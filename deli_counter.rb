@@ -1,5 +1,5 @@
 # Write your code here.
-def line_array
+def line(array)
 
 array.map!.with_index(1) do |name, index|
   "#{index}. #{name}"
